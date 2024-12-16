@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Iconiq2">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="./assets/img/KICKS.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Personal Website</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Welcome to my personal website a vibrant display of my design abilities and web development expertise. This site includes five uniquely styled pages, each offering a captivating glimpse into my professional journey. Discover a resume-style page outlining my skills, experience, and qualifications, a project gallery with detailed overviews and repository links, and a contact page for seamless communication.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=Iconiq2/WD-FinalExam-SUNGA)
 
 ---
 
@@ -57,19 +57,18 @@
 
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+This project involves building a personal website that functions as an online portfolio, highlighting my design expertise and web development skills. The site is divided into several sections, including an introduction, resume, project showcase, blog, and contact information. Showcasing my skills, experience, and qualifications in an engaging and visually appealing format.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - About creating personal website
+- Whats the purpose - To practice my skill in creating a personal website
+- What are key components - Correct input of syntax
+- What technology used and how it is used - HTML and CSS
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
 - MultiPage Website/Single Page Website
-- Parallax transition
 - Transactional
 
 ### Technology
@@ -116,5 +115,4 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| HTML & CSS Full Course for free 🌎 (2023) | Functions and explanations | [https://www.youtube.com/watch?v=HGTJBPNC-Gw] |
